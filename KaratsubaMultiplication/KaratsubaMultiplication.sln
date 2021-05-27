@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KaratsubaMultiplication", "KaratsubaMultiplication\KaratsubaMultiplication.csproj", "{80E2BD4F-8C82-487C-A503-345E0857793D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80E2BD4F-8C82-487C-A503-345E0857793D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80E2BD4F-8C82-487C-A503-345E0857793D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80E2BD4F-8C82-487C-A503-345E0857793D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80E2BD4F-8C82-487C-A503-345E0857793D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8062120-D8BA-4C2C-B707-4D0AD67B979A}
+	EndGlobalSection
+EndGlobal
